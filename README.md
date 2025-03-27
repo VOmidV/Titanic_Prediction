@@ -1,4 +1,5 @@
 # 🚢 Titanic Survival Prediction with TF-DF Ensemble
+![image](https://github.com/user-attachments/assets/0b433a6b-4ff0-4b84-a4dd-a0eee002eff7)
 
 ## 🎯 Goal
 ### Use ensemble modeling with TensorFlow Decision Forests to predict Titanic passenger survival more accurately.
